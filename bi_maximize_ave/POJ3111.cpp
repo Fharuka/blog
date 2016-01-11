@@ -1,13 +1,3 @@
-/*
-*POJ3111: K Best
-[http://poj.org/problem?id=:3111title]
-**問題概要
-蟻本 P.138 と同じ
-**解法
-蟻本 P.138 と同じ
-
->|cpp|
-*/
 #include <fstream>
 #include <iostream>
 #include <cmath>

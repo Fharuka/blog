@@ -1,12 +1,3 @@
-/*
-*POJ2976: Dropping tests
-[http://poj.org/problem?id=2976:title]
-**問題概要
-n 個のテストを受けた。それぞれのテストで b[i] 問中 a[i] 問正解した。テスト結果から k 個を取り除いて、平均を最大化したい。
-**解法
-平均点を x 点以上にできるかどうかの判定が O(n log n) でできる。平均点の最大化を二分探索する。
->|cpp|
-*/
 #include <fstream>
 #include <iostream>
 #include <cmath>
