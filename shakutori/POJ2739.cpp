@@ -1,12 +1,3 @@
-/*
-*POJ
-[http://poj.org/problem?id=:title]
-**問題概要
-
-**解法
-
->|cpp|
-*/
 #include <fstream>
 #include <iostream>
 #include <cmath>

@@ -1,12 +1,3 @@
-/*
-*POJ2566: Bound Found
-[http://poj.org/problem?id=2566:title]
-**問題概要
-
-**解法
-https://gist.github.com/amoshyc/57f3f07eeceec85d287b
->|cpp|
-*/
 #include <fstream>
 #include <iostream>
 #include <cmath>
