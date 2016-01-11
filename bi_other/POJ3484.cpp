@@ -1,15 +1,3 @@
-/*
-*POJ
-[http://poj.org/problem?id=:title]
-**問題概要
-[http://d.hatena.ne.jp/komiyam/20120207/1328545633:title]
-これを見た
-**解法
-
-WA を連発した。
-
->|cpp|
-*/
 #include <cstdio>
 #include <cstring>
 #include <sstream>
