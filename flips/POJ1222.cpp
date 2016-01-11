@@ -1,12 +1,3 @@
-/*
-*POJ1222: EXTENDED LIGHTS OUT
-[http://poj.org/problem?id=1222:title]
-**問題概要
-蟻本と同じ
-**解法
-
->|cpp|
-*/
 #include <fstream>
 #include <iostream>
 #include <cmath>

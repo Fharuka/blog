@@ -1,12 +1,3 @@
-/*
-*POJ3185: The Water Bowls
-[http://poj.org/problem?id=:3185title]
-**問題概要
-20個の 0 または 1 からなる数列が与えられる。連続する 3 つの項を反転させることができる。すべての数を 0 にするには、最低で何回反転させればよいか。
-**解法
-
->|cpp|
-*/
 #include <fstream>
 #include <iostream>
 #include <cmath>
